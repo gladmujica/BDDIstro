@@ -1,0 +1,2 @@
+# BDDIstro
+distribucion de ticket
